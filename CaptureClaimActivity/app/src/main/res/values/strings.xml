@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CaptureClaimActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">Description</string>
+    <string name="label_amount">Amount</string>
+    <string name="label_date">Date</string>
+
+    <string-array name="transaction_categories">
+        <item>Bills</item>
+        <item>Transportation</item>
+        <item>Entertainment</item>
+        <item>Miscellaneous</item>
+    </string-array>
+</resources>
